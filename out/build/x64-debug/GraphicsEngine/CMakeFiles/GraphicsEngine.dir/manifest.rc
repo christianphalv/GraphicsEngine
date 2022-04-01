@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/chris/courses/csci5607/GraphicsEngine/out/build/x64-debug/GraphicsEngine/CMakeFiles/GraphicsEngine.dir/embed.manifest"
